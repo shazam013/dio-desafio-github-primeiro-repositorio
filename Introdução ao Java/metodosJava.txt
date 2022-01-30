@@ -1,0 +1,30 @@
+Entendendo métodos Java
+
+-Criação
+-Sobrecarga
+-Retornos
+
+-Criação de métodos
+O que é um método?
+
+"é uma sub-rotina disponibilizada por uma classe.
+É executado quando é feita uma requisição a ele. 
+São responsáveis por definir e realizar um determinado
+comportamento (tudo o que deve acontecer na aplicação
+está dentro dos métodos)."
+
+Criação
+<?visibilidade?> <?tipo?> <?modificador?> retorno
+nome (<?parâmetros?>) <?exceções?> corpo
+
+retorno, nome, ( ) e corpo são obrigatórios
+
+public static R N(P) {...}
+
+classe se inicia com letra maiúscula e objeto com 
+letra minúscula.
+
+https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
+
+sobrecarga x sobrescrita
+sobrecarga = manter o nome e mudar a lista de parâmetros

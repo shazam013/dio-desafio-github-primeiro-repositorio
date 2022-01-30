@@ -1,0 +1,13 @@
+# Java
+## O que é o Java?
+### Uma linguagem de programação compilada, interpretada fortemente tipada, de alto nível (orientada a objetos) e executada em uma máquina virtual (JVM - Java Virtual Machine).
+### O código fonte é compilado para um executável .class que é interpretado pela JVM.
+## <br>Entendendo a JVM
+### É uma máquina virtual responsável pela tradução dos ByteCodes, oridundos do compilador Javac (Java Compiler), em código de máquina de cada sistema operacional.
+### <br>Características:
+### -Execução de pilhas
+### -Gerenciamento de memória
+### -Otimização de código (compilação Just In Time)
+### -Garbage Collector (GC)
+### <br>Diferença para outras linguagens compiladas
+### Não precisa ser compilada para cada sistema operacionão, apenas para JVM.
